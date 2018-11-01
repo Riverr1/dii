@@ -5,7 +5,7 @@ client.on('ready', () => {
      console.log(ON ${client.guilds.size} Servers '     Script By : EX Clan ');
    console.log(----------------);
  console.log(Logged in as ${client.user.tag}!);
-client.user.setGame(افجر ابوك .,"http://twitch.tv/فجر ابوك)
+client.user.setGame(To mind all the details. .,"http://twitch.tv/F4)
 client.user.setStatus("dnd")
 });           
 
